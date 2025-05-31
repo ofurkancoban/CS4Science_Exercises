@@ -1,0 +1,6 @@
+sensor_ID, date, value, time, comment
+124, 2023-May-1, 23.6 , 11:30 am, ""
+100, 2023-apr-4, 25.7 , 7:35 pm, "test in april"
+423, 2023-jun-2, 267.89, 8:40 pm, "this sensor war tested separately"
+586, 23-sep-12, 12.45, 9:45 am, "May this be an outlier?"
+345, 2023-oct-10, 234.45, 10:50 pm, "again, this test was a separate try" 
